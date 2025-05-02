@@ -4,5 +4,6 @@ int main()
 {
 	printf("This is new feature\n");
 	printf("Modification 1 (Drop down)\n");
+	printf("Modification 1 (Button)\n");
 	return 0;
 }
